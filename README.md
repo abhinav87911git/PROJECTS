@@ -15,3 +15,5 @@ QR CODE GENERATOR:
 This script simply makes an qr code image and simply save it to path you specify. 
 You just have to provide it with the text or the url and it will automatically generates an qr_code for it. 
 Then you have to just scan that generated qr_code and you will be able to see the content of it, wether it is a text or a url.
+
+And there few more projects that do the work as there name suggests.
